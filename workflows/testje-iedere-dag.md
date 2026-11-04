@@ -1,5 +1,6 @@
 ---
 title: testje iedere dag
+description: newdescription
 on:
   event: schedule
   schedule: 0 * * * *
